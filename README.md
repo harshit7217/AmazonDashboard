@@ -58,3 +58,11 @@ A visually rich, data-driven dashboard that analyzes product performance, user e
 3.Connect to the data source if prompted.
 
 4.Explore the interactive visualizations!
+
+##🙋‍♂️ Author
+
+Harshit Full Stack Developer | UI/UX Animator | Data Viz Enthusiast 
+
+📬 LinkedIn 
+
+🐦 Twitter
