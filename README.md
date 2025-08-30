@@ -23,7 +23,11 @@ A visually rich, data-driven dashboard that analyzes product performance, user e
 ## 📂 Folder Structure
 
 📁 Amazon-Market-Dashboard/ 
+
 ├── assets/ # Images, icons, and visual assets 
+
 ├── data/ # Raw and cleaned datasets 
+
 ├── dashboard.pbix # Power BI dashboard file (if applicable) 
+
 ├── README.md # Project overview
