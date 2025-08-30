@@ -20,6 +20,12 @@ A visually rich, data-driven dashboard that analyzes product performance, user e
 - **Backend**: CSV / SQL / MongoDB (data source)
 - **Design**: Minimalist, cinematic layout with intuitive UX
 
+## 📊 Dashboard Preview
+
+![Amazon Market Dashboard](images/First.png)
+![Amazon Market Dashboard](images/Second.png)
+
+
 ## 📂 Folder Structure
 
 📁 Amazon-Market-Dashboard/ 
