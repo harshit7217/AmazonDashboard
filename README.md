@@ -63,6 +63,9 @@ A visually rich, data-driven dashboard that analyzes product performance, user e
 
 Harshit Full Stack Developer | UI/UX Animator | Data Viz Enthusiast 
 
-📬 LinkedIn 
+📬 LinkedIn : https://www.linkedin.com/in/harshit-7217-chaudhary/
 
-🐦 Twitter
+🐦 Twitter : https://x.com/cha84587
+
+
+Want help turning this into a portfolio case study or adding recruiter-facing bullet points? I can help you write that too 💼✨
